@@ -1,0 +1,9 @@
+C:\Users\aliba\Desktop\istatistik_odev\Frekans\Frekans\bin\Debug\Frekans.exe.config
+C:\Users\aliba\Desktop\istatistik_odev\Frekans\Frekans\bin\Debug\Frekans.exe
+C:\Users\aliba\Desktop\istatistik_odev\Frekans\Frekans\bin\Debug\Frekans.pdb
+C:\Users\aliba\Desktop\istatistik_odev\Frekans\Frekans\obj\Debug\Frekans.csprojAssemblyReference.cache
+C:\Users\aliba\Desktop\istatistik_odev\Frekans\Frekans\obj\Debug\Frekans.Form1.resources
+C:\Users\aliba\Desktop\istatistik_odev\Frekans\Frekans\obj\Debug\Frekans.Properties.Resources.resources
+C:\Users\aliba\Desktop\istatistik_odev\Frekans\Frekans\obj\Debug\Frekans.csproj.GenerateResource.cache
+C:\Users\aliba\Desktop\istatistik_odev\Frekans\Frekans\obj\Debug\Frekans.exe
+C:\Users\aliba\Desktop\istatistik_odev\Frekans\Frekans\obj\Debug\Frekans.pdb
